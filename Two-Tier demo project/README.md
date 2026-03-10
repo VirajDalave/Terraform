@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/architecture.png" alt="Architecture Diagram" width="800"/>
+</p>
+
 ## Infrastructure Provisioning Guide
 
 This repository contains Terraform code to provision **infrastructure on AWS**.
